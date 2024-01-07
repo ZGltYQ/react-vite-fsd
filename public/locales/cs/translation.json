@@ -1,0 +1,17 @@
+{
+    "Select authorization method": "Vyberte způsob autorizace",
+    "The delivered energy is": "Dodaná energie je {{power}} kW",
+    "Terms of Use": "Podmínky použití",
+    "Coming soon...": "Již brzy...",
+    "Instruction": "Návod",
+    "Status": "STAV",
+    "Please reconnect your car and go through the authorization process again": "Znovu připojte své auto a znovu projděte procesem autorizace",
+    "Something has gone wrong": "Něco se pokazilo",
+    "Wait until it is free and you can start the charging process.": "Počkejte, až se uvolní a můžete zahájit proces nabíjení.",
+    "The charging station is currently busy": "Nabíjecí stanice je momentálně vytížená",
+    "To start the charging process, plug your car and attach your RFID tag to the reader at the charging station.": "Chcete-li zahájit proces nabíjení, zapojte auto do zásuvky a připojte svůj RFID štítek ke čtečce na nabíjecí stanici.",
+    "Please try again later or check access link": "Zkuste to znovu později nebo zkontrolujte přístupový odkaz",
+    "The public interface for charging is unavailable": "Veřejné rozhraní pro nabíjení není k dispozici",
+    "Charging session is complete": "Relace nabíjení je dokončena",
+    "Charging will start automatically after your tag is authorized": "Nabíjení se spustí automaticky po autorizaci vašeho štítku"
+}

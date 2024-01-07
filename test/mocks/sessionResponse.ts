@@ -1,0 +1,3 @@
+export default {
+    "session_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTY5ODE1NjgxNDc0NTM2MiwidXJsX25hbWUiOiJkaW1hdGVzdCIsImlhdCI6MTcwMDc3MzY0NiwiZXhwIjoxNzAwNzczNzA2fQ.qZvSL9eDmmzI3bJAQHjbITqc9ff-sbjhRY6BtMobxUY"
+}

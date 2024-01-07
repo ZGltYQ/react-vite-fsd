@@ -1,0 +1,17 @@
+{
+    "Select authorization method": "Select authorization method",
+    "The delivered energy is": "The delivered energy is {{power}} kW",
+    "Terms of Use": "Terms of Use",
+    "Coming soon...": "Coming soon...",
+    "Instruction": "Instruction",
+    "Status": "Status",
+    "Something has gone wrong": "Something has gone wrong",
+    "Please reconnect your car and go through the authorization process again": "Please reconnect your car and go through the authorization process again",
+    "Wait until it is free and you can start the charging process.": "Wait until it is free and you can start the charging process.",
+    "The charging station is currently busy": "The charging station is currently busy",
+    "To start the charging process, plug your car and attach your RFID tag to the reader at the charging station.": "To start the charging process, plug your car and attach your RFID tag to the reader at the charging station.",
+    "Please try again later or check access link": "Please try again later or check access link",
+    "Charging will start automatically after your tag is authorized": "Charging will start automatically after your tag is authorized",
+    "The public interface for charging is unavailable": "The public interface for charging is unavailable",
+    "Charging session is complete": "Charging session is complete"
+}   

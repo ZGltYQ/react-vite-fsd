@@ -1,0 +1,12 @@
+{
+    "Start time": "Start time",
+    "Duration": "Duration",
+    "Cancel": "Cancel",
+    "Yes, I’m sure": "Yes, I’m sure",
+    "Your car is not yet fully charged": "Your car is not yet fully charged",
+    "Are you sure you want to finish charging?": "Are you sure you want to finish charging?",
+    "Stop charging": "Stop charging",
+    "Charger": "Charger {{id}}",
+    "Delivered energy": "Delivered energy",
+    "Ok": "Ok"
+}
